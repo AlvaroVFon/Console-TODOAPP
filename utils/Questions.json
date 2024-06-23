@@ -1,0 +1,9 @@
+[
+  { "name": "1. Crear Tareas", "value": 1 },
+  { "name": "2. Listar tareas pendientes", "value": 2 },
+  { "name": "3. Listar tareas completadas", "value": 3 },
+  { "name": "4. Listar todas las tareas", "value": 4 },
+  { "name": "5. Completar tarea(s)", "value": 5 },
+  { "name": "6. Eliminar tareas", "value": 6 },
+  { "name": "0. Salir", "value": 0 }
+]
